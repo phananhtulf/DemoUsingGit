@@ -1,3 +1,3 @@
 this is config of system
-username: Master
+username: SA
 password: 123456
