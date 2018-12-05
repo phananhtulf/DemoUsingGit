@@ -1,3 +1,8 @@
 this is config of system
+<<<<<<< HEAD
 username: SA
 password: 123456
+=======
+username: ABC
+password: 156489
+>>>>>>> issue22
